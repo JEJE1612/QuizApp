@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931458825710",
+    "project_id": "simpleqize",
+    "storage_bucket": "simpleqize.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931458825710:android:72de78f5ff217ad66ca2ff",
+        "android_client_info": {
+          "package_name": "com.example.quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTh6-e6h4klqo8aki2wjQH7sXnJF7-LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
